@@ -1,5 +1,3 @@
-<img width="929" height="614" alt="home" src="https://github.com/user-attachments/assets/e89dac6e-96e5-4377-81c9-c4dd49dfcf39" />🎯 AI Placement Interview Simulator
-
 📌 Project Overview
 
 AI Placement Interview Simulator is a smart web-based application designed to help students prepare for technical interviews. It simulates real interview scenarios by asking questions and evaluating answers using AI techniques.
