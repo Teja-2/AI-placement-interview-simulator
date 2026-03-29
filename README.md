@@ -51,10 +51,10 @@ AI Placement Interview Simulator is a smart web-based application designed to he
 
 👨‍💻 Author
 
-Teja
-Manasa
-Keerthi
-Anu
+1.Teja
+2.Manasa
+3.Keerthi
+4.Anu
 
 📎 GitHub Repository
 
